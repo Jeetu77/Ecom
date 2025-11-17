@@ -8,9 +8,9 @@ faTruckFast
 
 function Header() {
   return (
-     <Navbar expand="lg" style={{zIndex:"1"}} className="bg-success position-fixed w-100 ">
+     <Navbar expand="lg" style={{zIndex:"1"}} className="bg-danger position-fixed w-100 ">
       <Container>
-        <Navbar.Brand > <Link to={'/'} className='text-decoration-none fw-bold text-light'  >  <FontAwesomeIcon icon={faTruckFast}/> Daily Cart </Link> </Navbar.Brand>
+        <Navbar.Brand > <Link to={'/'} className='text-decoration-none fw-bold text-light'  >  <FontAwesomeIcon icon={faTruckFast}/> Nutri Cart </Link> </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className='bg-light'  />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto d-md-flex align-items-md-center gap-4 ">
