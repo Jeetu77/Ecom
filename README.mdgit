@@ -1,0 +1,1 @@
+"# Ecom"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Jeetu77/Ecom.gitgit push -u origin main
