@@ -7,11 +7,11 @@ import { Link } from 'react-router-dom'
 
 function Footer() {
   return (
-    <div style={{height:'310px'}} className='bg-danger d-flex align-items-center justify-content-center flex-column text-white' >
+    <div style={{height:'310px'}} className='bg-success d-flex align-items-center justify-content-center flex-column text-white' >
 <div className='d-flex justify-content-between w-75' >
   <div style={{width:'400px'}} className='intro' >
     <h3>
-    <FontAwesomeIcon icon={faTruck} /> Nutri Cart  </h3>
+    <FontAwesomeIcon icon={faTruck} /> Daily cart  </h3>
     <p>Designed the build with all the love in the world by the luminar team with the help of our contributor</p>
     <p> code licensed luminar,docs CC BY 3.0 </p>
     <p> currently v5 5.3.2</p>
